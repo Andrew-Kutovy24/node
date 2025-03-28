@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.13.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.2",
+    "@types/express": "^5.0.1",
+    "@types/mongoose": "^5.11.97",
+    "rimraf": "^6.0.1",
+    "ts-node": "^10.9.2",
+    "tsc-watch": "^6.2.1"
+  }
+}
